@@ -33,11 +33,11 @@ The goal of this project is to create a simple, user-friendly to-do list web app
 - **Remove Task:** Add a "Remove" button to each task that allows users to delete the task from the list.
 ###User Flow:
 
--The user enters a task in the input field.
--The user clicks the "Add" button or presses the Enter key to add the task to the list.
--The task appears in the list with a "Remove" button next to it.
--The user can click on the task to mark it as complete, which adds a line-through style.
--The user can click the "Remove" button to delete the task from the list.
+- The user enters a task in the input field.
+- The user clicks the "Add" button or presses the Enter key to add the task to the list.
+- The task appears in the list with a "Remove" button next to it.
+- The user can click on the task to mark it as complete, which adds a line-through style.
+- The user can click the "Remove" button to delete the task from the list.
 ###Conclusion:
 - This project provides a basic yet functional to-do list web application. It demonstrates the use of HTML for structure, CSS for styling, and JavaScript for interactivity, offering a practical example of how these technologies work together to create a dynamic web app.
 
