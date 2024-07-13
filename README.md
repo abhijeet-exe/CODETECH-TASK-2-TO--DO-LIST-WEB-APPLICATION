@@ -25,8 +25,8 @@ The goal of this project is to create a simple, user-friendly to-do list web app
 - **JavaScript:** Handles user interactions such as adding, completing, and removing tasks. JavaScript also updates the DOM dynamically based on user actions.
 ### Implementation Steps:
 
--**Set Up HTML Structure:** Create the basic structure of the app with input fields for adding tasks, a button to add tasks, and an unordered list to display tasks.
--**Style the App with CSS:** Apply styles to ensure the app looks clean and user-friendly. This includes styling the container, input fields, buttons, and task list items.
+- **Set Up HTML Structure:** Create the basic structure of the app with input fields for adding tasks, a button to add tasks, and an unordered list to display tasks.
+- **Style the App with CSS:** Apply styles to ensure the app looks clean and user-friendly. This includes styling the container, input fields, buttons, and task list items.
 **Implement JavaScript Functionality:**  
 - **Add Task:** Capture user input from the text field and add it to the task list when the "Add" button is clicked or the Enter key is pressed.
 - **Complete Task:** Add a click event to each task that toggles its completion status, visually indicating completed tasks with a line-through style.
